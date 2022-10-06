@@ -635,7 +635,7 @@
     </event>
     <event name="StaticSpookyHeli">
         <nominal>3</nominal>
-        <min>3</min>
+        <min>2</min>
         <max>3</max>
         <lifetime>2500</lifetime>
         <restock>0</restock>
@@ -650,7 +650,6 @@
         <children>
             <child lootmax="20" lootmin="10" max="3" min="1" type="Wreck_Mi8"/>
         </children>
-    </event>
     </event>
     <!--
     <event name="StaticPoliceCar">
