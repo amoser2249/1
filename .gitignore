@@ -1,0 +1,47 @@
+@Advanced Weapon Scopes/.modversion
+*.pbo
+*.bisign
+*.bikey
+*.cpp
+@Advanced Weapon Scopes/XMLs/26_11_2021_NEW_CLASSNAMES.xml
+@Advanced Weapon Scopes/XMLs/trader.xml
+@CF/.modversion
+@Community-Online-Tools/.modversion
+
+@*/
+*.bin
+backups/
+changes/
+logs/
+mpmissions/dayzOffline.enoch
+mpmissions/dayzOffline.chernarusplus
+profiles/EventManagerLog/*
+profiles/CommunityOnlineTools/*
+*.rpt
+*.dll
+*.ch
+*.so
+*.ebo
+buildid
+docs/
+*.log
+*.map
+*.tga
+*.db
+*.exe
+battleye/eula.txt
+mpmissions/dayZOffline.Esseker/storage_1/backup/***/*.bin
+*.mdmp
+profiles/BattlEye/*
+*.vdf
+*.ADM
+mpmissions/dayZOffline.Esseker/storage_1/***/*
+*.001
+*.001
+*.002
+*.001
+
+*.vdf
+profiles/DayZServer_x64.ADM
+mpmissions/dayZOffline.Esseker/storage_1/*
+mpmissions/dayZOffline.Esseker/storage_1
