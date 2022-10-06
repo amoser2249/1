@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<eventposdef>
+  
+  <event name="StaticHeliCrash">
+    <zone smin="4" smax="5" dmin="0" dmax="0" r="45" />
+    <pos x="9250" z="4900" a="0" />
+  </event>
+  
+  <event name="InfectedVillage">
+    <pos x="10085.5" z="9872.01" a="0" />
+    <pos x="1000.85" z="9825.3" a="0" />
+    <pos x="10138.3" z="9825.6" a="0" />
+  </event>
+</eventposdef>

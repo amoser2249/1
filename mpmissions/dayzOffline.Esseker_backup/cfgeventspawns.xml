@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<eventposdef>
+  
+  <event name="StaticHeliCrash">
+    <zone smin="0" smax="0" dmin="0" dmax="0" r="60" />
+    <!--<pos x="8184.24" z="6407.17" a="0"/>
+		<pos x="11538.1" z="5849.83" a="0"/>
+		<pos x="10156.2" z="5117.37" a="0"/>
+    <pos x="11181.8" z="5271.66" a="0"/>
+		<pos x="9658.72" z="4224.78" a="0"/>
+		<pos x="7911.41" z="5601.17" a="0"/>
+		<pos x="8807.63" z="6152.66" a="0"/>
+		<pos x="8909.77" z="5367.79" a="-162"/>
+		<pos x="8603.99" z="5704.18" a="162"/>-->
+		<pos x="9273.9" z="4892.27" a="99.0001"/>
+  </event>
+  
+  <event name="InfectedVillage">
+    <pos x="10085.5" z="9872.01" a="0" />
+    <pos x="1000.85" z="9825.3" a="0" />
+    <pos x="10138.3" z="9825.6" a="0" />
+  </event>
+</eventposdef>

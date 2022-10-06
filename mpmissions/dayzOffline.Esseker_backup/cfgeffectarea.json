@@ -1,0 +1,285 @@
+{
+    "Areas": [
+		{ 	"AreaName": "Borosh", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 10040, 0, 9850 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Posestra", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 7800, 131, 6867 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "NoName", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 7100, 0, 9300 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 52, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "NoviGrad", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 11888, 0, 7900 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Lug", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 6200, 0, 6900 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Gulash", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 6400, 0, 6160 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Kula", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 4900, 0, 5100 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_purple",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Bondstil", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 7670, 0, 7600 ],
+				"Radius": 150,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Kozara", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 10890, 0, 6575 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Adela", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 9780, 0, 4850 ],
+				"Radius": 300,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 4,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_red",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Zoo", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 8880, 0, 5485 ],
+				"Radius": 100,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_green"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_green",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_green",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{ 	"AreaName": "Neptune", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [ 6400, 0, 5550 ],
+				"Radius": 100,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 25, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_green"
+				},
+			"PlayerData": {
+				"AroundPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_green",
+				"TinyPartName": "Atlas_Servers/Effects/Particles/spooky_mist_shep_green",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		}
+
+    ],
+
+	"SafePositions":[
+		
+	]
+}

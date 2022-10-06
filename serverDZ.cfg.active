@@ -1,0 +1,35 @@
+serverTimeAcceleration = 1;
+instanceId = 1;
+maxPlayers = 40;
+logAverageFps = 10;
+serverNightTimeAcceleration = 1;
+forceSameBuild = 1;
+steamQueryPort = 27017;
+disablePersonalLight = 1;
+multithreadedReplication = 1;
+hostname = "Atlas - Legacy Esseker (1pp / Hardcore / Legacy Gunplay)";
+serverTime = "2021/10/31/22/00";
+passwordAdmin = "ohmydeffie";
+class Missions
+{
+	class DayZ
+	{
+		template="dayzOffline.esseker";
+	};
+};
+disableVoN = 0;
+vonCodecQuality = 28;
+loginQueueMaxPlayers = 80;
+storageAutoFix = 1;
+disable3rdPerson = 1;
+loginQueueConcurrentPlayers = 6;
+password = "ewdavidatlas";
+enableWhitelist = 0;
+verifySignatures = 2;
+storeHouseStateDisabled = 0;
+lightingConfig = 1;
+serverTimePersistent = 0;
+enableDebugMonitor = 0;
+disableCrosshair = 1;
+guaranteedUpdates = 1;
+logFile = "serverconsole.log";
