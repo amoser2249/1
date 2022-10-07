@@ -648,7 +648,7 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="20" lootmin="10" max="3" min="1" type="Wreck_Mi8"/>
+            <child lootmax="0" lootmin="0" max="15" min="5" type="Wreck_Mi8"/>
         </children>
     </event>
     <!--

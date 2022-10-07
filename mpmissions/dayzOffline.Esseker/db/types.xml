@@ -16854,7 +16854,7 @@
     </type>
     <type name="Wreck_Mi8">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
