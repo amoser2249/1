@@ -2,31 +2,6 @@
 
 <spawnabletypes>
 	<damage min="0.3" max="0.7" />
-	<type name="Wreck_Mi8">
-		<cargo chance="1">
-			<item name="NVGoggles" chance="1.00" />
-		</cargo>
-		<cargo chance="1">
-			<item name="TTC_DMR_Bipod" chance="0.33" />
-			<item name="TTC_DMR_RifleFrame" chance="0.33" />
-			<item name="TTC_DMR_Barrel_762" chance="0.33" />
-		</cargo>
-		<cargo chance="1">
-			<item name="TTC_AmmoBox_338mm_10Rnd" chance="0.50" />
-			<item name="TTC_Ammo_338" chance="0.50" />
-		</cargo>
-		<cargo chance="1">
-			<item name="TTC_AmmoBox_338mm_10Rnd" chance="0.50" />
-			<item name="TTC_DMR_762Stanag_20rnd" chance="0.50" />
-		</cargo> 
-		<cargo chance="1">
-			<item name="TTC_DMR_AFG" chance="0.20" />
-			<item name="TTC_DMR_VFG" chance="0.20" />
-			<item name="TTC_SCARLBlack" chance="0.20" />
-			<item name="TTC_M24_NEW_Black" chance="0.20" />
-			<item name="TTC_DMR_Barrel_556" chance="0.20" />
-		</cargo>
-	</type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
