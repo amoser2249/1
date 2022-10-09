@@ -1652,7 +1652,7 @@
     <type name="B95">
         <nominal>20</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3299,7 +3299,7 @@
     <type name="CZ527">
         <nominal>30</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3325,10 +3325,10 @@
         <usage name="Police"/>
     </type>
     <type name="CZ75">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>40</min>
+        <restock>30</restock>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4419,7 +4419,7 @@
     <type name="Colt1911">
         <nominal>20</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4917,7 +4917,7 @@
     <type name="Deagle">
         <nominal>25</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4929,7 +4929,7 @@
     <type name="Deagle_Gold">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -5373,7 +5373,7 @@
     <type name="Engraved1911">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -6690,7 +6690,7 @@
     <type name="Glock19">
         <nominal>40</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -8488,7 +8488,7 @@
     <type name="Izh18">
         <nominal>60</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9552,7 +9552,7 @@
     <type name="M4A1">
         <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>200</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9566,7 +9566,7 @@
     <type name="M4A1_Black">
         <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>200</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9823,7 +9823,7 @@
     <type name="MKII">
         <nominal>30</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>30</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -10428,7 +10428,7 @@
     <type name="Magnum">
         <nominal>25</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>60</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -10440,7 +10440,7 @@
     <type name="MakarovIJ70">
         <nominal>45</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>60</restock>
         <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11067,10 +11067,10 @@
         <usage name="Medic"/>
     </type>
     <type name="Mosin9130">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <restock>180</restock>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11085,7 +11085,7 @@
     <type name="Mosin9130_Black">
         <nominal>3</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>180</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11101,7 +11101,7 @@
     <type name="Mosin9130_Camo">
         <nominal>3</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>180</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11117,7 +11117,7 @@
     <type name="Mosin9130_Green">
         <nominal>3</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>180</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11340,7 +11340,7 @@
     <type name="Mp133Shotgun">
         <nominal>20</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>60</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -13031,10 +13031,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Repeater">
-        <nominal>15</nominal>
+        <nominal>8</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>8</min>
+        <restock>60</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13147,7 +13147,7 @@
     <type name="SVD">
         <nominal>2</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>60</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -13362,7 +13362,7 @@
     <type name="Scout">
         <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -13374,7 +13374,7 @@
     <type name="Scout_Chernarus">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -16230,7 +16230,7 @@
     <type name="VSS">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
