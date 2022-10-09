@@ -15992,20 +15992,20 @@
 						<point pos="2.554070 -1.697937 4.891639" range="0.925143" height="1.900002" />
 				</container>
 		</group>
-		<group name="Wreck_Mi8_Crashed" lootmax="15">
+		<group name="Wreck_Mi8_Crashed" lootmax="10">
 				<usage name="Atlas" />
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="15">
+				<container name="lootFloor" lootmax="10">
 						<category name="shep" />
 						<category name="weapons" />
-						<point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
+						<!-- <point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
 						<point pos="-1.758788 -1.888990 -2.302246" range="0.597443" height="1.493607" flags="32" />
 						<point pos="-5.150909 -1.888990 -4.171387" range="1.199951" height="2.000000" flags="32" />
 						<point pos="-9.951996 -1.888990 -2.661621" range="0.932135" height="2.000000" flags="32" />
 						<point pos="-9.645112 -1.888990 1.531249" range="1.199951" height="2.000000" flags="32" />
 						<point pos="-7.113404 -1.888990 1.797849" range="1.199951" height="2.000000" flags="32" />
 						<point pos="-4.582459 -1.888990 1.906738" range="1.199951" height="2.000000" flags="32" />
-						<point pos="-1.599335 -1.888990 -0.949219" range="0.764948" height="1.163458" flags="32" />
+						<point pos="-1.599335 -1.888990 -0.949219" range="0.764948" height="1.163458" flags="32" /> -->
 						<point pos="-3.084625 -1.796867 -1.247071" range="0.393962" height="0.169039" />
 						<point pos="-4.700715 -1.854195 -1.203125" range="0.334039" height="0.211958" />
 						<point pos="-7.857819 -1.816639 -0.384278" range="0.407959" height="1.019897" />

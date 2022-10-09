@@ -2,7 +2,7 @@
 <eventposdef>
 
   <event name="StaticHeliCrash">
-    <zone smin="4" smax="5" dmin="0" dmax="0" r="45" />
+    <zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
     <pos x="9250" z="4900" a="0" />
     <pos x="9015" z="7605" a="0" />
     <pos x="11470" z="5915" a="0" />
