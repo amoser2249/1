@@ -11429,7 +11429,7 @@
     <type name="NVGoggles">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
