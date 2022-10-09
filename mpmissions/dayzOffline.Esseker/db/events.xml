@@ -630,7 +630,7 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="6" min="12" type="Wreck_Mi8_Crashed"/>
+            <child lootmax="8" lootmin="12" max="6" min="12" type="Wreck_Mi8_Crashed"/>
         </children>
     </event>
     <event name="StaticSpookyHeli">
