@@ -3227,9 +3227,9 @@
         <usage name="Village"/>
     </type>
     <type name="Broom_Birch">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>8</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3668,10 +3668,10 @@
         <usage name="Village"/>
     </type>
     <type name="Cauldron">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4744,10 +4744,10 @@
         <value name="Tier1"/>
     </type>
     <type name="CrookedNose">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9389,15 +9389,16 @@
         <category name="tools"/>
     </type>
     <type name="LongTorch">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="1"/>
         <category name="tools"/>
+        <usage name="Witchy" />
     </type>
     <type name="LongWoodenStick">
         <nominal>0</nominal>
@@ -9473,8 +9474,9 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="explosives"/>
+        <usage name="Witchy"/>
         <usage name="Military"/>
     </type>
     <type name="M18SmokeGrenade_Purple">
@@ -9485,9 +9487,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="explosives"/>
         <usage name="Military"/>
+        <usage name="Witchy"/>
     </type>
     <type name="M18SmokeGrenade_Red">
         <nominal>5</nominal>
@@ -9497,7 +9500,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="explosives"/>
         <usage name="Military"/>
     </type>
@@ -12048,6 +12051,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
+        <usage name="Witchy" />
     </type>
     <type name="PileOfWoodenPlanks">
         <nominal>0</nominal>
@@ -12063,10 +12067,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="PilotkaCap">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16399,10 +16403,10 @@
         <value name="Tier4"/>
     </type>
     <type name="WitchHat">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16410,10 +16414,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="WitchHood_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16421,10 +16425,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="WitchHood_Brown">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16432,10 +16436,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="WitchHood_Red">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

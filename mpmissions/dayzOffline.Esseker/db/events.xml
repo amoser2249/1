@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
+    <event name="StaticBonfire">
+        <nominal>8</nominal>
+        <min>3</min>
+        <max>8</max>
+        <lifetime>3600</lifetime>
+        <restock>15</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>5</distanceradius>
+        <cleanupradius>2500</cleanupradius>
+        <secondary>InfectedFirefighter</secondary>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>fixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="8" lootmin="4" max="8" min="8" type="Bonfire"/>
+        </children>
+    </event>
     <event name="AmbientHen">
         <nominal>3</nominal>
         <min>0</min>

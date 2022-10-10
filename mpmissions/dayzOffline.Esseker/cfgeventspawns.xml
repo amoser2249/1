@@ -1,15 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <eventposdef>
-  
+
   <event name="StaticHeliCrash">
     <zone smin="4" smax="5" dmin="0" dmax="0" r="45" />
     <pos x="9250" z="4900" a="0" />
   </event>
 
+
+  <event name="StaticBonfire">
+    <zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
+    <pos x="10255" z="9305" a="0" />
+    <pos x="9415" z="10165" a="0" />
+    <pos x="8310" z="9140" a="0" />
+    <pos x="7020" z="7865" a="0" />
+    <pos x="11470" z="5915" a="0" />
+    <pos x="9110" z="7020" a="0" />
+    <pos x="9015" z="7605" a="0" />
+    <pos x="9455" z="16080" a="0" />
+</event>
   <!--
     <event name="StaticSpookyHeli">
       <zone smin="4" smax="5" dmin="0" dmax="0" r="45" />
-      <pos x="9250" z="4900" a="0" /> 
+      <pos x="9250" z="4900" a="0" />
 
       <pos x="13470" z="12395" a="0" />
       <pos x="12560" z="12825" a="0" />
@@ -32,6 +44,7 @@
       <pos x="14925" z="4305" a="0" />
       <pos x="13850" z="5780" a="0" />
       <pos x="11470" z="5915" a="0" />
+      <pos x="9110" z="7020" a="0" />
       <pos x="9015" z="7605" a="0" />
       <pos x="6825" z="7840" a="0" />
       <pos x="5920" z="12485" a="0" />
@@ -99,9 +112,9 @@
       <pos x="5830" z="19695" a="0" />
       <pos x="7555" z="19695" a="0" />
       <pos x="9350" z="17110" a="0" />
-      <pos x="14800" z="8700" a="0" /> 
+      <pos x="14800" z="8700" a="0" />
   </event>
-  
+
   -->
 
   <event name="InfectedVillage">
@@ -109,5 +122,5 @@
     <pos x="1000.85" z="9825.3" a="0" />
     <pos x="10138.3" z="9825.6" a="0" />
   </event>
-  
+
 </eventposdef>
