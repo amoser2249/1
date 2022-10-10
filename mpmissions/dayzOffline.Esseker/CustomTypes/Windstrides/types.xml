@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<types>	
+<types>
     <type name="Blue_Leggings">
         <nominal>15</nominal>
         <lifetime>2700</lifetime>
@@ -1033,10 +1033,10 @@
         <value name="Tier4"/>
     </type>
             <type name="Wool_GreatCoat_Navy">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1049,7 +1049,7 @@
         <value name="Tier4"/>
     </type>
             <type name="Wool_GreatCoat_Olive">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -1065,7 +1065,7 @@
         <value name="Tier4"/>
     </type>
             <type name="Wool_GreatCoat_Grey">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -1081,10 +1081,10 @@
         <value name="Tier4"/>
     </type>
             <type name="Plague_Mask">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1097,10 +1097,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Leather_Cloak">
-		<nominal>0</nominal>
+		<nominal>10</nominal>
 		<lifetime>172800</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1121,7 +1121,7 @@
         <usage name="Military"/>
     </type>
     <type name="Defender_Vest_Classic">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -1131,11 +1131,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Defender_Vest_Black">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -1145,6 +1146,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -1159,6 +1161,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>

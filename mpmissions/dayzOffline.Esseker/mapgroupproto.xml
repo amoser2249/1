@@ -15,7 +15,6 @@
 
 		<group name="Bonfire" lootmax="5">
 			<usage name="SeasonalEvent" />
-			<usage name="Witchy" />
 			<container name="lootFloor" lootmax="5">
 					<point pos="2.876667 0.5 3.211807" range="1.65" height="1.5" flags="32" />
 					<point pos="2.496737 0.5 -3.174454" range="1.65" height="1.5" flags="32" />
