@@ -17,7 +17,7 @@
     <pos x="9110" z="7020" a="0" />
     <pos x="9015" z="7605" a="0" />
     <pos x="9455" z="16080" a="0" />
-</event>
+  </event>
   <!--
     <event name="StaticSpookyHeli">
       <zone smin="4" smax="5" dmin="0" dmax="0" r="45" />
