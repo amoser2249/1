@@ -1573,6 +1573,11 @@
 	<!-- Religious -->
 	<type name="ZmbM_priestPopSkinny">
 		<cargo preset="foodHermit" />
+		<attachments chance="1.00">
+			<item name="WitchHood_Red" chance="0.20" />
+			<item name="WitchHood_Black" chance="0.40" />
+			<item name="WitchHood_Brown" chance="1.0" />
+		</attachments>
 	</type>
 	<!-- Solitude -->
 	<type name="ZmbF_HikerSkinny_Blue">
@@ -1684,20 +1689,53 @@
 	</type>
 	<!-- Village -->
 	<type name="ZmbF_MilkMaidOld_Beige">
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsVillage" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CrookedNose" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Broom_Birch" chance="1.00" />
+		</attachments>
+		<!-- <cargo preset="ZombieItemDropWitches" /> -->
+		<cargo preset="foodWitch" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Black">
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsVillage" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CrookedNose" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Broom_Birch" chance="1.00" />
+		</attachments>
+		<cargo preset="foodWitch" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsVillage" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CrookedNose" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Broom_Birch" chance="1.00" />
+		</attachments>
+		<cargo preset="foodWitch" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Grey">
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsVillage" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CrookedNose" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Broom_Birch" chance="1.00" />
+		</attachments>
+		<cargo preset="foodWitch" />
 	</type>
 	<type name="ZmbF_VillagerOld_Blue">
 		<cargo preset="foodVillage" />

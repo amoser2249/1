@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+		<cargo chance="1.00" name="foodWitch">
+			<item name="HumanSteakMeat" chance="0.11" />
+			<item name="ZagorkyChocolate" chance="0.11" />
+			<item name="PigSteakMeat" chance="0.33" />
+			<item name="Apple" chance="0.33" />
+		</cargo>
 		<cargo chance="0.15" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
 				<item name="SardinesCan" chance="0.11" />
@@ -221,8 +227,8 @@
 				<item name="BUISOptic" chance="0.20" />
 				<item name="ReflexOptic" chance="0.20" />
 		</attachments>
-		
-		
+
+
 
 
 		<!--   FARM ATTACHMENTS   -->
@@ -344,7 +350,7 @@
 			<item name="DryBag_Black" chance="0.1" />
 			<item name="DryBag_Red" chance="0.20" />
 		</attachments>
-		
+
 		<!--   FIREFIGHTER ATTACHMENTS   -->
 		<attachments chance="1.00" name="hatsFirefighter">
 				<item name="FirefightersHelmet_White" chance="0.33" />
@@ -412,7 +418,7 @@
 		<attachments chance="1.00" name="vestsPolice">
 				<item name="PoliceVest" chance="1.00" />
 		</attachments>
-		
+
 		<!--   PRISONER ATTACHMENTS   -->
 		<attachments chance="0.20" name="hatsPrisoner">
 				<item name="PrisonerCap" chance="1.00" />
