@@ -1064,9 +1064,12 @@
 	<type name="ZmbF_SurvivorNormal_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		<attachments chance="1.00">
+			<item name="GhillieHood_Mossy" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GhillieSuit_Mossy" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_SurvivorNormal_White">
 		<cargo preset="foodCity" />
@@ -1428,10 +1431,12 @@
 	<type name="ZmbM_HeavyIndustryWorker">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsIndustrial" />
-		<attachments preset="bagsIndustrial" />
-		<attachments preset="vestsIndustrial" />
+		<attachments chance="1.00">
+			<item name="GhillieHood_Mossy" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GhillieSuit_Mossy" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbM_MechanicSkinny_Blue">
 		<cargo preset="foodCity" />
@@ -1845,9 +1850,12 @@
 	<type name="ZmbM_VillagerOld_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsVillage" />
+		<attachments chance="1.00">
+			<item name="GhillieHood_Mossy" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GhillieSuit_Mossy" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbM_VillagerOld_White">
 		<cargo preset="foodVillage" />
