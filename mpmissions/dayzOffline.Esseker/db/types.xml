@@ -1147,7 +1147,7 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/> 
+        <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -2335,10 +2335,10 @@
         <value name="Tier4"/>
     </type>
     <type name="BaseballBat">
-        <nominal>80</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10961,10 +10961,10 @@
         <usage name="Town"/>
     </type>
     <type name="MiniDress_BlueChecker">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10973,12 +10973,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_BlueWithDots">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10987,12 +10988,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_BrownChecker">
-        <nominal>15</nominal>
+        <nominal>8</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11001,12 +11003,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_GreenChecker">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11015,12 +11018,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_Pink">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11029,12 +11033,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_PinkChecker">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11043,12 +11048,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_RedChecker">
-        <nominal>15</nominal>
+        <nominal>8</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11057,12 +11063,13 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="MiniDress_WhiteChecker">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>7</min>
+        <restock>120</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11071,6 +11078,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="School"/>
+        <value name="Tier1"/>
     </type>
     <type name="Morphine">
         <nominal>15</nominal>
@@ -11098,6 +11106,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
     </type>
     <type name="Mosin9130_Black">
@@ -11113,7 +11122,9 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mosin9130_Camo">
         <nominal>3</nominal>
@@ -11129,6 +11140,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mosin9130_Green">
         <nominal>3</nominal>
@@ -11143,7 +11155,9 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mosin_Bayonet">
         <nominal>4</nominal>
@@ -11296,12 +11310,11 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MountainBag_Green">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -11312,12 +11325,11 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MountainBag_Orange">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -11328,12 +11340,11 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MountainBag_Red">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -11344,9 +11355,8 @@
         <category name="containers"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>
@@ -11489,17 +11499,21 @@
         <usage name="Farm"/>
     </type>
     <type name="NailedBaseballBat">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Industrial"/>
-        <usage name="Village" /> </usage>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Farm"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="Netting">
         <nominal>0</nominal>
