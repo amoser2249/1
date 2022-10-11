@@ -916,21 +916,4 @@
             <child lootmax="15" lootmin="10" max="1" min="1" type="Wreck_Mi8_Crashed"/>
         </children>
     </event>
-    <event name="AnimalSpider">
-        <nominal>1</nominal>
-        <min>2</min>
-        <max>3</max>
-        <lifetime>1800</lifetime>
-        <restock>900</restock>
-        <saferadius>100</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="6" min="1" type="Animal_dbo_spiderb"/>
-        </children>
-    </event>
 </events>
