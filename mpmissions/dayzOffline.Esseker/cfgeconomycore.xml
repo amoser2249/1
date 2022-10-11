@@ -38,6 +38,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="CustomTypes/AWScopes">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="CustomTypes/Halloween">
+		<file name="types.xml" type="types" />
+	</ce>	
 	<ce folder="CustomTypes/Mortys">
 		<file name="Morty_types.xml" type="types" />
 		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
