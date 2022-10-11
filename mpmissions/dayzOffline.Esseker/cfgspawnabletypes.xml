@@ -883,8 +883,13 @@
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
+		<attachments chance="1.00">
+			<item name="Shep_Plague_Mask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
+		<cargo preset="foodWitch" />
 	</type>
 	<type name="ZmbF_Clerk_Normal_Green">
 		<cargo preset="foodCity" />
@@ -913,10 +918,14 @@
 	</type>
 	<type name="ZmbF_CitizenANormal_Blue">
 		<cargo preset="foodCity" />
+		<cargo preset="foodWitch" />
 		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		<attachments chance="1.00">
+			<item name="Shep_Plague_Mask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_CitizenANormal_Brown">
 		<cargo preset="foodCity" />
@@ -1614,7 +1623,7 @@
 		<attachments chance="1.00">
 			<item name="LeatherHat_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="0.50">
+		<attachments chance="1.0">
 			<item name="TShirt_RedBlackStripes" chance="1.00" />
 		</attachments>
 	</type>
@@ -1679,10 +1688,13 @@
 	<type name="ZmbM_HunterOld_Spring">
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsHunter" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="vestsHunter" />
+		<attachments chance="1.00">
+			<item name="Shep_Plague_Mask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
+		<cargo preset="foodWitch" />
 	</type>
 	<type name="ZmbM_HunterOld_Summer">
 		<cargo preset="foodHermit" />
@@ -1792,11 +1804,11 @@
 		</attachments>
 	</type>
 	<type name="ZmbF_JoggerSkinny_Brown">
-		<cargo preset="foodVillage" />
+		<cargo preset="foodWitch" />
 		<cargo preset="toolsVillage" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsVillage" />
+		<attachments chance="1.00">
+			<item name="Shep_Ghost_Ghillie" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_JoggerSkinny_Green">
 		<cargo preset="foodVillage" />
@@ -1824,9 +1836,11 @@
 		<attachments preset="glassesVillage" />
 	</type>
 	<type name="ZmbM_FarmerFat_Brown">
-		<cargo preset="foodVillage" />
+		<cargo preset="foodWitch" />
 		<cargo preset="toolsVillage" />
-		<attachments preset="glassesVillage" />
+		<attachments chance="1.00">
+			<item name="Shep_Ghost_Ghillie" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbM_FarmerFat_Green">
 		<cargo preset="foodVillage" />
