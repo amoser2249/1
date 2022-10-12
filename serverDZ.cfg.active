@@ -1,7 +1,7 @@
 serverTimeAcceleration = 1;
 instanceId = 1;
 maxPlayers = 50;
-logAverageFps = 10;
+logAverageFps = 600;
 serverNightTimeAcceleration = 1;
 forceSameBuild = 1;
 steamQueryPort = 27017;
@@ -10,6 +10,8 @@ multithreadedReplication = 1;
 hostname = "Atlas - Halloween Esseker (1pp / Hardcore / Legacy Gunplay)";
 serverTime = "SystemTime";
 passwordAdmin = "ohmydeffie";
+enableCfgGameplayFile = 1;
+disableVoN = 0;
 class Missions
 {
 	class DayZ
@@ -17,8 +19,6 @@ class Missions
 		template="dayzOffline.esseker";
 	};
 };
-disableVoN = 0;
-enableCfgGameplayFile = 1;
 vonCodecQuality = 28;
 loginQueueMaxPlayers = 80;
 storageAutoFix = 1;

@@ -53,6 +53,9 @@
       <pos x="5178.52"  z="9012.93" />
       <pos x="5029.89"  z="8453.27" />
       <pos x="5342.37"  z="8557.34" />
+      <pos x="4620" z="5000" />
+      <pos x="5850" z="6160" />
+
     </generator_posbubbles>
   </fresh>
 </playerspawnpoints>
