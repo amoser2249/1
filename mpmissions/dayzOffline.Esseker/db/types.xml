@@ -193,10 +193,10 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -207,10 +207,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AKS74U">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8327,10 +8327,10 @@
         <category name="food"/>
     </type>
     <type name="HunterPants_Autumn">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8339,10 +8339,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Brown">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8351,10 +8351,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Spring">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8363,10 +8363,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Summer">
-        <nominal>25</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8399,10 +8399,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Autumn">
-        <nominal>25</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8411,10 +8411,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Brown">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8423,10 +8423,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Spring">
-        <nominal>20</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8435,10 +8435,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Summer">
-        <nominal>25</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18823,7 +18823,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-	 <type name="Animal_dbo_spiderb">
+    <type name="Animal_dbo_spiderb">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -18833,7 +18833,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-		 <type name="Animal_dbo_spiderMomma">
+    <type name="Animal_dbo_spiderMomma">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -18843,7 +18843,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-	<type name="fangknife">
+    <type name="fangknife">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -18856,7 +18856,7 @@
         <tag name="shelves"/>
         <usage name="Hunting"/>
     </type>
-	  <type name="legspear">
+    <type name="legspear">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
