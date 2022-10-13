@@ -8361,7 +8361,7 @@
         <category name="food"/>
     </type>
     <type name="HunterPants_Autumn">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -8373,7 +8373,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Brown">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -8385,7 +8385,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Spring">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -8397,7 +8397,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Summer">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -8409,7 +8409,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="HunterPants_Winter">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -8433,10 +8433,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Autumn">
-        <nominal>25</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8445,10 +8445,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Brown">
-        <nominal>20</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8457,10 +8457,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Spring">
-        <nominal>20</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8469,10 +8469,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Summer">
-        <nominal>25</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
