@@ -8493,10 +8493,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingKnife">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
