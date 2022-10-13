@@ -27,7 +27,7 @@
 	<type name="TTC_SCARLBlack">
 		<nominal>2</nominal>
 		<lifetime>3600</lifetime>
-		<restock>1800</restock>
+		<restock>7200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -51,7 +51,7 @@
     <type name="TTC_M24_NEW_Black">
 		<nominal>1</nominal>
 		<lifetime>3600</lifetime>
-		<restock>1800</restock>
+		<restock>7200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -76,7 +76,7 @@
     <type name="TTC_DMR_AFG">
         <nominal>2</nominal>
         <lifetime>3600</lifetime>
-        <restock>1800</restock>
+        <restock>3600</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -88,7 +88,7 @@
     <type name="TTC_DMR_VFG">
         <nominal>2</nominal>
         <lifetime>3600</lifetime>
-        <restock>1800</restock>
+        <restock>3600</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
