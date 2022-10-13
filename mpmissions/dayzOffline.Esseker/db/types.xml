@@ -1215,6 +1215,16 @@
         <usage name="Firefighter"/>
         <usage name="Coast"/>
     </type>
+    <type name="Animal_Shep_Halloween_Bear">
+        <nominal>0</nominal>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
     <type name="Animal_BosTaurusF_Brown">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -5493,7 +5503,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
@@ -18882,14 +18892,5 @@
         <tag name="shelves"/>
         <usage name="Hunting"/>
     </type>
-    <type name="Animal_Shep_Halloween_Bear">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
+    
 </types>
