@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
+  <type name="Avery_M2001">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>900</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="Avery_Tactical_Shirt">
+    <nominal>3</nominal>
+    <lifetime>3600</lifetime>
+    <restock>900</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="Avery_Tortilla">
+    <nominal>3</nominal>
+    <lifetime>3600</lifetime>
+    <restock>900</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="containers"/>
+    <usage name="Military"/>
+    <value name="Tier2"/>
+  </type>
+  <type name="Fantasize_Quilted_Jacket">
+    <nominal>8</nominal>
+    <lifetime>3600</lifetime>
+    <restock>900</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Military"/>
+    <value name="Tier2"/>
+  </type>
   <type name="Shep_Ghost_Ghillie">
     <nominal>20</nominal>
     <lifetime>3600</lifetime>
