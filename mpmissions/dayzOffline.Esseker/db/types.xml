@@ -1163,8 +1163,8 @@
     </type>
     <type name="Animal_Shep_Halloween_Bear">
         <nominal>0</nominal>
-        <lifetime>180</lifetime>
-        <restock>0</restock>
+        <lifetime>900</lifetime>
+        <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18810,7 +18810,7 @@
     <type name="Animal_dbo_spider">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18820,7 +18820,7 @@
 	 <type name="Animal_dbo_spiderb">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18830,7 +18830,7 @@
 		 <type name="Animal_dbo_spiderMomma">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
