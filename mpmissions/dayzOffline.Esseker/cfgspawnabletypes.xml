@@ -910,11 +910,16 @@
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_CitizenANormal_Beige">
-		<cargo preset="foodCity" />
-		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		<cargo preset="foodWitch" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CrookedNose" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Broom_Birch" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_CitizenANormal_Blue">
 		<cargo preset="foodCity" />
@@ -930,9 +935,18 @@
 	<type name="ZmbF_CitizenANormal_Brown">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		<attachments chance="1.00">
+			<item name="GreatHelm" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sword" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_CitizenBSkinny">
 		<cargo preset="foodCity" />
@@ -1010,9 +1024,18 @@
 	<type name="ZmbF_ShortSkirt_red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		<attachments chance="1.00">
+			<item name="GreatHelm" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sword" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_ShortSkirt_stripes">
 		<cargo preset="foodCity" />
@@ -1066,9 +1089,18 @@
 	<type name="ZmbF_SurvivorNormal_Orange">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		<attachments chance="1.00">
+			<item name="GreatHelm" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sword" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_SurvivorNormal_Red">
 		<cargo preset="foodCity" />
@@ -1820,9 +1852,18 @@
 	<type name="ZmbF_JoggerSkinny_Red">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsVillage" />
+		<attachments chance="1.00">
+			<item name="GreatHelm" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Leather_Cloak" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sword" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbM_FarmerFat_Beige">
 		<cargo preset="foodVillage" />
