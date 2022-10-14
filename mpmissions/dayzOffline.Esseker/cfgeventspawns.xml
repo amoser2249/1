@@ -3,10 +3,11 @@
 
   <event name="StaticHeliCrash">
     <zone smin="4" smax="7" dmin="0" dmax="0" r="45" />
+    <pos x="10036" z="5014" a="0" />
     <!--<pos x="8616" z="5705" a="0" />
     <pos x="9671" z="4264" a="0" />
     <pos x="8720" z="4474" a="0" />-->
-    <pos x="10036" z="5014" a="0" />
+    
   </event>
 
   <event name="StaticBonfire">

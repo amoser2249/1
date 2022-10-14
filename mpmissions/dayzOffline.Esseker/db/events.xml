@@ -23,7 +23,7 @@
         <min>6</min>
         <max>6</max>
         <lifetime>180</lifetime>
-        <restock>900</restock>
+        <restock>0</restock>
         <saferadius>200</saferadius>
         <distanceradius>0</distanceradius>
         <cleanupradius>0</cleanupradius>
