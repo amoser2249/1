@@ -1697,7 +1697,15 @@
 	<type name="ZmbM_HikerSkinny_Blue">
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
-		<attachments preset="hatsFarm" />
+		<attachments chance="1.00">
+			<item name="HockeyMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherHat_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="TShirt_RedBlackStripes" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbM_HikerSkinny_Green">
 		<cargo preset="foodHermit" />
@@ -1739,10 +1747,15 @@
 	<type name="ZmbM_HunterOld_Winter">
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsHunter" />
-		<attachments preset="vestsHunter" />
+		<attachments chance="1.00">
+			<item name="HockeyMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherHat_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="TShirt_RedBlackStripes" chance="1.00" />
+		</attachments>
 	</type>
 	<!-- Village -->
 	<type name="ZmbF_MilkMaidOld_Beige">
@@ -1818,9 +1831,15 @@
 	<type name="ZmbF_VillagerOld_White">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsVillage" />
+		<attachments chance="1.00">
+			<item name="HockeyMask" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherHat_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="TShirt_RedBlackStripes" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="ZmbF_JoggerSkinny_Blue">
 		<cargo preset="foodVillage" />
