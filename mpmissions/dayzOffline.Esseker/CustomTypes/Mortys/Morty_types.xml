@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-	<type name="TTC_AmmoBox_338mm_10Rnd">
-        <nominal>10</nominal>
-        <lifetime>3600</lifetime>
+    <type name="TTC_AmmoBox_338mm_10Rnd">
+        <nominal>8</nominal>
+        <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
     <type name="TTC_Ammo_338">
-        <nominal>10</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>40</nominal>
+        <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>20</min>
         <quantmin>10</quantmin>
-        <quantmax>50</quantmax>
+        <quantmax>40</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
-	<type name="TTC_SCARLBlack">
-		<nominal>2</nominal>
-		<lifetime>3600</lifetime>
-		<restock>7200</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="se_weapons"/>
+    <type name="TTC_SCARLBlack">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="se_weapons"/>
         <usage name="Atlas"/>
-	</type>
+    </type>
     <type name="TTC_DMR_762Stanag_20rnd">
         <nominal>4</nominal>
         <lifetime>3600</lifetime>
@@ -44,23 +44,23 @@
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
     <type name="TTC_M24_NEW_Black">
-		<nominal>1</nominal>
-		<lifetime>3600</lifetime>
-		<restock>7200</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-		<category name="se_weapons"/>
+        <nominal>1</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="se_weapons"/>
         <usage name="Atlas"/>
-	</type>
-	<type name="TTC_M24New_mag_5rnd">
+    </type>
+    <type name="TTC_M24New_mag_5rnd">
         <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>1800</restock>
@@ -68,82 +68,80 @@
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
-    
     <type name="TTC_DMR_AFG">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>3600</restock>
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
     <type name="TTC_DMR_VFG">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>3600</restock>
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
     <type name="TTC_DMR_RifleFrame">
-		<nominal>2</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-		<category name="se_weapons"/>
-        <usage name="Atlas"/>
-	</type>
-	<type name="TTC_DMR_Barrel_762">
-		<nominal>2</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-		<category name="se_weapons"/>
-        <usage name="Atlas"/>
-	</type>
-	<type name="TTC_DMR_Barrel_556">
-		<nominal>2</nominal>
-		<lifetime>3600</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-		<category name="se_weapons"/>
-        <usage name="Atlas"/>
-	</type>
-    <type name="TTC_DMR_Bipod">
-        <nominal>2</nominal>
-        <lifetime>3600</lifetime>
-        <restock>1800</restock>
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="se_weapons"/>
         <usage name="Atlas"/>
     </type>
-	
+    <type name="TTC_DMR_Barrel_762">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="se_weapons"/>
+        <usage name="Atlas"/>
+    </type>
+    <type name="TTC_DMR_Barrel_556">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="se_weapons"/>
+        <usage name="Atlas"/>
+    </type>
+    <type name="TTC_DMR_Bipod">
+        <nominal>3</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
+        <category name="se_weapons"/>
+        <usage name="Atlas"/>
+    </type>
 </types>
