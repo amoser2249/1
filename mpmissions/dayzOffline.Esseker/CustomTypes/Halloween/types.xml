@@ -53,7 +53,20 @@
     <usage name="Town"/>
     <usage name="Village"/>
     <usage name="Military"/>
-    <value name="Tier2"/>
+  </type>
+  <type name="Dr_Kt">
+    <nominal>8</nominal>
+    <lifetime>3600</lifetime>
+    <restock>900</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Military"/>
   </type>
   <type name="Shep_Ghost_Ghillie">
     <nominal>20</nominal>
@@ -83,5 +96,29 @@
     <usage name="Village"/>
     <value name="Tier2"/>
     <value name="Tier3"/>
+  </type>
+  <type name="ShepDragonBackpack">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Town"/>
+  </type>
+  <type name="ShepDragonBackpack_1">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Village"/>
   </type>
 </types>
