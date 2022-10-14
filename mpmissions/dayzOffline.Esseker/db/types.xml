@@ -497,10 +497,10 @@
         <usage name="Military"/>
     </type>
     <type name="AmmoBox_00buck_10rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -513,10 +513,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -525,10 +525,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_12gaSlug_10Rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -541,10 +541,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_22_50Rnd">
-        <nominal>55</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>40</min>
+        <restock>180</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -554,10 +554,10 @@
         <usage name="Village"/>
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
-        <nominal>7</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>180</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -569,10 +569,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_308Win_20Rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -585,10 +585,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -599,10 +599,10 @@
         <value name="Tier2"/>
     </type>
     <type name="AmmoBox_380_35rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -613,10 +613,10 @@
         <value name="Tier2"/>
     </type>
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -625,10 +625,10 @@
         <usage name="Military"/>
     </type>
     <type name="AmmoBox_545x39Tracer_20Rnd">
-        <nominal>7</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>180</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -640,54 +640,9 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_545x39_20Rnd">
-        <nominal>15</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="AmmoBox_556x45Tracer_20Rnd">
-        <nominal>12</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>6</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="AmmoBox_556x45_20Rnd">
-        <nominal>20</nominal>
-        <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="AmmoBox_762x39Tracer_20Rnd">
         <nominal>7</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>180</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -699,11 +654,56 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-    <type name="AmmoBox_762x39_20Rnd">
-        <nominal>20</nominal>
+    <type name="AmmoBox_556x45Tracer_20Rnd">
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>180</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="AmmoBox_556x45_20Rnd">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>180</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="AmmoBox_762x39Tracer_20Rnd">
+        <nominal>3</nominal>
+        <lifetime>3600</lifetime>
+        <restock>180</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="AmmoBox_762x39_20Rnd">
+        <nominal>10</nominal>
+        <lifetime>3600</lifetime>
+        <restock>180</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -716,10 +716,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
-        <nominal>7</nominal>
+        <nominal>3</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>180</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -731,10 +731,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54_20Rnd">
-        <nominal>15</nominal>
+        <nominal>7</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>12</min>
+        <restock>180</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -747,10 +747,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>20</min>
+        <restock>180</restock>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -760,10 +760,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>2</min>
+        <restock>180</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -775,10 +775,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x39_20Rnd">
-        <nominal>7</nominal>
+        <nominal>6</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>180</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
