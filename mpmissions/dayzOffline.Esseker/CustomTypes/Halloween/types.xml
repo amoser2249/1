@@ -14,7 +14,7 @@
     <value name="Tier4"/>
   </type>
   <type name="Avery_Tactical_Shirt">
-    <nominal>3</nominal>
+    <nominal>4</nominal>
     <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>1</min>
@@ -28,7 +28,7 @@
     <value name="Tier4"/>
   </type>
   <type name="Avery_Tortilla">
-    <nominal>3</nominal>
+    <nominal>4</nominal>
     <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>2</min>
@@ -41,10 +41,10 @@
     <value name="Tier2"/>
   </type>
   <type name="Fantasize_Quilted_Jacket">
-    <nominal>8</nominal>
+    <nominal>4</nominal>
     <lifetime>3600</lifetime>
     <restock>900</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -55,10 +55,10 @@
     <usage name="Military"/>
   </type>
   <type name="Dr_Kt">
-    <nominal>8</nominal>
+    <nominal>4</nominal>
     <lifetime>3600</lifetime>
     <restock>900</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -69,7 +69,7 @@
     <usage name="Military"/>
   </type>
   <type name="Shep_Ghost_Ghillie">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>10</min>
@@ -83,7 +83,7 @@
     <value name="Tier2"/>
   </type>
   <type name="Shep_Plague_Mask">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>3600</lifetime>
     <restock>900</restock>
     <min>10</min>
@@ -98,10 +98,10 @@
     <value name="Tier3"/>
   </type>
   <type name="ShepDragonBackpack">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <lifetime>3600</lifetime>
     <restock>3600</restock>
-    <min>3</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -110,10 +110,46 @@
     <usage name="Town"/>
   </type>
   <type name="ShepDragonBackpack_1">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <lifetime>3600</lifetime>
     <restock>3600</restock>
-    <min>3</min>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Village"/>
+  </type>
+  <type name="ShepDragonBackpack_2">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Village"/>
+  </type>
+  <type name="ShepDragonBackpack_3">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothes"/>
+    <usage name="Village"/>
+  </type>
+  <type name="ShepDragonBackpack_3">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -134,5 +170,19 @@
     <usage name="Industrial"/>
     <usage name="Village"/>
     <tag name="shelves"/>
+  </type>
+  <type name="FireworksLauncher">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
   </type>
 </types>

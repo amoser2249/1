@@ -16,6 +16,6 @@
         <zone name="Graze" smin="0" smax="0" dmin="1" dmax="1" x="10380" z="5580" r="50"/>
     </territory>
     <territory color="4278190080">
-        <zone name="Graze" smin="0" smax="0" dmin="1" dmax="1" x="10026" z="5005" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="1" dmax="1" x="10036" z="5014" r="50"/>
     </territory>
 </territory-type>
