@@ -98,10 +98,10 @@
     <value name="Tier3"/>
   </type>
   <type name="ShepDragonBackpack">
-    <nominal>1</nominal>
+    <nominal>3</nominal>
     <lifetime>3600</lifetime>
     <restock>3600</restock>
-    <min>1</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -110,10 +110,10 @@
     <usage name="Town"/>
   </type>
   <type name="ShepDragonBackpack_1">
-    <nominal>1</nominal>
+    <nominal>3</nominal>
     <lifetime>3600</lifetime>
     <restock>3600</restock>
-    <min>1</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
