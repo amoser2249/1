@@ -1,5 +1,5 @@
 {
-    "version": 117,
+  "version": 119,
     "PlayerData": {
       "disablePersonalLight": 1
     },
@@ -18,5 +18,12 @@
         "hitDirectionScatter": 0,
         "hitIndicationPostProcessEnabled": 0
       }
+    },
+    "MapData":
+    {
+      "ignoreMapOwnership": 0,
+      "ignoreNavItemsOwnership": 0,
+      "displayPlayerPosition": 0,
+      "displayNavInfo": 1
     }
   }
