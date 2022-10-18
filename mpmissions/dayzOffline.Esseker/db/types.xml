@@ -3359,7 +3359,7 @@
         <category name="tools"/>
     </type>
     <type name="CZ527">
-        <nominal>15</nominal>
+        <nominal>8</nominal>
         <lifetime>3600</lifetime>
         <restock>30</restock>
         <min>5</min>
