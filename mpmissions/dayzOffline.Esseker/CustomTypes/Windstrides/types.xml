@@ -1145,7 +1145,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Defender_Vest_Classic">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>60</restock>
         <min>2</min>
@@ -1159,7 +1159,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Defender_Vest_Black">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>3600</lifetime>
         <restock>60</restock>
         <min>2</min>
