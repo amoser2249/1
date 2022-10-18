@@ -4968,10 +4968,10 @@
         <usage name="Village"/>
     </type>
     <type name="Deagle">
-        <nominal>25</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>30</restock>
-        <min>15</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4980,10 +4980,10 @@
         <usage name="Town"/>
     </type>
     <type name="Deagle_Gold">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>3600</lifetime>
         <restock>30</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8297,7 +8297,7 @@
     </type>
     <type name="HumanSteakMeat">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>900</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

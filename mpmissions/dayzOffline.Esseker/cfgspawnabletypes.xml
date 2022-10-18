@@ -1625,6 +1625,20 @@
 			<item name="WitchHood_Brown" chance="1.0" />
 		</attachments>
 	</type>
+	<type name="ZmbM_Mummy">
+		<cargo chance="0.10">
+			<item name="Deagle_Gold" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HumanSteakMeat" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="HumanSteakMeat" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Rag" chance="1.00" />
+		</cargo>
+	</type>
 	<!-- Solitude -->
 	<type name="ZmbF_HikerSkinny_Blue">
 		<cargo preset="foodHermit" />

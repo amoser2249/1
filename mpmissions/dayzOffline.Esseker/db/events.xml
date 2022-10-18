@@ -253,6 +253,7 @@
             <child lootmax="5" lootmin="0" max="7" min="3" type="ZmbF_MilkMaidOld_Black"/>
             <child lootmax="5" lootmin="0" max="7" min="3" type="ZmbF_MilkMaidOld_Green"/>
             <child lootmax="5" lootmin="0" max="7" min="3" type="ZmbF_MilkMaidOld_Grey"/>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_Mummy"/>
         </children>
     </event>
     <event name="InfectedArmy">
@@ -396,6 +397,7 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_FirefighterNormal"/>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_Mummy"/>
         </children>
     </event>
     <event name="InfectedIndustrial">
@@ -538,6 +540,7 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_priestPopSkinny"/>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_Mummy"/>
         </children>
     </event>
     <event name="InfectedSolitude">
@@ -573,6 +576,7 @@
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Spring"/>
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Summer"/>
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Winter"/>
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_Mummy"/>
         </children>
     </event>
     <event name="InfectedVillage">
@@ -670,7 +674,7 @@
         <active>0</active>
         <children/>
     </event>
-    
+
     <event name="StaticSpookyHeli">
         <nominal>1</nominal>
         <min>0</min>
