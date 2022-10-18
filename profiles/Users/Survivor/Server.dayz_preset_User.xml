@@ -432,6 +432,14 @@
         <btn name="kLControl" />
         <btn name="x1TriggerRight" />
     </input>
+    <input name="UACarHorn">
+        <btn name="kH" />
+        <btn name="x1ThumbLeft" />
+    </input>
+    <input name="UACarHandbrake">
+        <btn name="kSpace" />
+        <btn name="x1ShoulderRight" />
+    </input>
     <input name="UAUILeft">
         <btn name="kLeft" />
         <btn name="x1PadLeft" />
@@ -467,6 +475,12 @@
             <event name="release" />
         </btn>
     </input>
+    <input name="UAMenuSelect">
+        <btn name="mBLeft" />
+    </input>
+    <input name="UAMenuBack">
+        <btn name="mBRight" />
+    </input>
     <input name="UAUICtrlX">
         <btn name="x1X" />
     </input>
@@ -499,9 +513,11 @@
         <btn name="x1PadRight" />
     </input>
     <input name="UAUIQuickbarRadialOpen">
+        <btn name="kComma" />
         <btn name="x1ShoulderRight" />
     </input>
     <input name="UAUIQuickbarRadialInventoryOpen">
+        <btn name="kComma" />
         <btn name="x1ThumbLeft" />
     </input>
     <input name="UAUIRadialMenuStickHelper">
@@ -593,6 +609,18 @@
         <btn name="x1X">
             <event name="click" />
         </btn>
+    </input>
+    <input name="UAMapToggle">
+        <btn name="kM" />
+    </input>
+    <input name="UAMapMovementHorizontal">
+        <btn name="x1LeftThumbHorizontal" />
+    </input>
+    <input name="UAMapMovementVertical">
+        <btn name="x1LeftThumbVertical" />
+    </input>
+    <input name="UAMapZoom">
+        <btn name="x1RightThumbVertical" />
     </input>
     <input name="UASwitchPreset">
         <btn name="x1Y" />

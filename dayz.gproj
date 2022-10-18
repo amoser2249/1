@@ -21,6 +21,7 @@ GameProjectClass {
 	  "gui/imagesets/xbox_buttons.imageset"
 	  "gui/imagesets/playstation_buttons.imageset"
 	  "gui/imagesets/console_toolbar.imageset"
+	  "gui/imagesets/Map2D_UI.imageset"
 	  "Graphics/Textures/postprocess/VignetteFrames.imageset"
 	 }
 	 widgetStyles {
