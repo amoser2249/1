@@ -10179,10 +10179,10 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_CZ75_15Rnd">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>120</restock>
-        <min>40</min>
+        <min>15</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10195,10 +10195,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_Deagle_9rnd">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>120</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>15</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10250,10 +10250,10 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_IJ70_8Rnd">
-        <nominal>70</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>120</restock>
-        <min>50</min>
+        <min>15</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
